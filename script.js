@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', function() {
             let lastWinner = null;
 
             const backgrounds = [
-                'img/gavera-maltin.jpg',
-                'img/bulto-de-harina.jpg', 
-                'img/gavera.jpg',
-                'img/caroreña.jpg',
-                'img/polar-tobo.jpg',
-                'img/pepsi-6.png',
-                'img/malta6.jpg',
-                'img/pepsi.jpg'
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/gavera-maltin.jpg',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/bulto-de-harina.jpg', 
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/gavera.jpg',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/caroreña.jpg',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/polar-tobo.jpg',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/pepsi-6.png',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/malta6.jpg',
+                'https://raw.githubusercontent.com/angel10arcila/rifas/refs/heads/main/pepsi.jpg'
                        
             ];
 
